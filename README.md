@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Cryptography. <br>
-📫 How to reach me: 1211274465@qq.com / yanmo_312@163.com <br>
+🌱 I’m currently learning Cryptography and Deep neural network model copyright protection scheme. <br>
+📫 How to reach me: yanmo_312@163.com <br>
