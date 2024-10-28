@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Cryptography and Deep neural network model copyright protection scheme. <br>
 📫 How to reach me: yanmo_312@163.com <br>
+⚡ : music & art & fashion delulu ...✨✨ <br>
